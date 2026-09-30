@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Legacy repository.** This research project has been consolidated into [Applied Economics & Academic Research](https://github.com/caballerohh/Thesis-and-Academic-Research). This repository remains public only for version history and project traceability.
+
 # Proyecto-9-Econometric-Social-Policy-Impact-Evaluation-Lab
 
 # 🏛️ Social Policy Impact Evaluation: The Case of "Pensión 65"
@@ -15,8 +18,6 @@ El análisis se basa en microdatos de la **Encuesta Nacional de Hogares (ENAHO)*
 * **Estrategia de Identificación:** Aplicación del método **Diff-in-Diff (DD)** para comparar la evolución del grupo de tratamiento (beneficiarios únicos) frente a un grupo de control pareado.
 * **Balanceo de Muestra (PSM):** Uso de un modelo **Probit** para calcular el *Propensity Score*, garantizando soporte común y balanceo en variables como edad, educación y necesidades básicas insatisfechas (NBI).
 * **Control de Heterogeneidad:** Estimación mediante **Efectos Fijos (Fixed Effects)** para capturar características inobservables constantes en el tiempo a nivel de hogar.
-
-
 
 ---
 
