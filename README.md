@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **Legacy repository.** This research project has been consolidated into [Applied Economics & Academic Research](https://github.com/caballerohh/Thesis-and-Academic-Research). This repository remains public only for version history and project traceability.
+> **Legacy repository — integrated into the Applied Econometrics area.** The research outputs and methodological documentation from this project have been incorporated into [Applied Economics & Academic Research](https://github.com/caballerohh/Thesis-and-Academic-Research). This repository remains public only for version history and project traceability.
 
 # Proyecto-9-Econometric-Social-Policy-Impact-Evaluation-Lab
 
